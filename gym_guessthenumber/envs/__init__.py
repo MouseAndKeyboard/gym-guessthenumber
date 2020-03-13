@@ -1,0 +1,1 @@
+from gym_guessthenumber.envs.guessthenumber_env import GuessTheNumber
